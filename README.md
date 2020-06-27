@@ -6,4 +6,6 @@ Learning go via solving leetcode problems
 
 | Problem  | Level | Solution      | Problem Link
 | -        | -     | -             | -
-| Two Sum  | easy  | [src](twosum) | https://leetcode.com/problems/two-sum/
+| Two Sum  | easy  | [src](twosum/twosum.go) | https://leetcode.com/problems/two-sum/
+| Reorder Data in Log Files  | easy  | [src](reorderlogs/reorderlogs.go) | https://leetcode.com/problems/reorder-data-in-log-files/
+
